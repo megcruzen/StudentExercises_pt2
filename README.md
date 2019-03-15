@@ -1,6 +1,13 @@
 # Student Exercises Part 2: LINQ
 
 ## Instructions
+
+In the last exercise, you had the instructors assign exercises to students.
+
+```cs
+Instructor.AssignExercise(exercise, student);
+```
+
 For this exercise, you need to create 4 new `List` instances to `Program.cs`: one to contain students, one to contain exercises, one to contain instructors, and one to contain cohorts.
 
 ```cs
